@@ -1,0 +1,8 @@
+Event A
+P = 50/100 = 0.5
+
+Event B
+P = 50/100 = 0.5
+
+Event A & Event B
+P = 25/100 = 0.25

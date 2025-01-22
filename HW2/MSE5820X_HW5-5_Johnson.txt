@@ -1,0 +1,3 @@
+a) There are four possible orderings, one with the Au in each specific location.
+
+b) Each configuration has a probability of 0.25 or 25%.
